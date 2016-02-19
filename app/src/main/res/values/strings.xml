@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_home">Weather App</string>
+    <string name="action_settings">Settings</string>
+</resources>
